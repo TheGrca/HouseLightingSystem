@@ -1,0 +1,26 @@
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.csprojResolveAssemblyReference.cache
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Modbus.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\Common.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\Common.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\Common.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.AssemblyReference.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.csproj.CopyComplete
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb

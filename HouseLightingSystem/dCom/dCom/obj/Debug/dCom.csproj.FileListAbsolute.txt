@@ -1,0 +1,75 @@
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\dCom.exe.config
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.csprojResolveAssemblyReference.cache
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\ControlWindow.g.cs
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\MainWindow.g.cs
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\App.g.cs
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\RtuCfg.txt
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\dCom.exe
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\dCom.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\Common.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\Modbus.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\ProcessingModule.dll
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\Common.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\bin\Debug\ProcessingModule.pdb
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\ControlWindow.baml
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\MainWindow.baml
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.g.resources
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.Cache
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.exe
+C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\dCom\obj\Debug\dCom.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\ControlWindow.g.cs
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\MainWindow.g.cs
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\App.g.cs
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\RtuCfg.txt
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.exe.config
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.exe
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\Common.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\Modbus.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\ProcessingModule.dll
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\Common.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\Modbus.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\bin\Debug\ProcessingModule.pdb
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\ControlWindow.baml
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\MainWindow.baml
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.g.resources
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.exe
+E:\FTN\Predmeti\Akviziciono upravljački sistemi\Kolokvijum\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\RtuCfg.txt
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.exe.config
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.exe
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\dCom.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\Common.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\Modbus.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\ProcessingModule.dll
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\Common.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\Modbus.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\bin\Debug\ProcessingModule.pdb
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.AssemblyReference.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\ControlWindow.g.cs
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\MainWindow.g.cs
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\App.g.cs
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\ControlWindow.baml
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\MainWindow.baml
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.g.resources
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.exe
+C:\Users\Spotify\Desktop\AUS Kolokvijum G7i8 - Projekat radjen\AUS Kolokvijum G7i8 - Projekat radjen\Template - Projekat Radjen\dCom\dCom\obj\Debug\dCom.pdb

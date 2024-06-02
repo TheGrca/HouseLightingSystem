@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\korisnik\\desktop\\aus kolokvijum g7i8 - projekat radjen\\aus kolokvijum g7i8 - projekat radjen\\template - projekat radjen\\dcom\\processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\AutomationManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\AutomationManager.cs",
+              "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwKgAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigItemEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZC/TxpxGMbf73GAeIhXKz9SbWMQ\u002B8NcMMWgQtpGBwZjhybWGhs2p66t1SYdutXO7aTtaOLQgYmBkgh0aqjBhGgjlCiHSOU8hEPkDg7uete0Y/\u002BA9jO8eYfnGT4P/Pto1BORI/jC3AJpnDB2NZ1NwnrfSow8GtH7Xf5GNBpFnjnPJeY2Y/A/9Ytrr9d6Tm6ddJhdZpGO0RImyzKG7WNjHM8FGlgjSXQRSRNuSpKI/Fh0FnsP2cMhXuQDOkkXoI/osVK99FloCYE8nh\u002BDV4Dhob0QeVQ\u002BWtnOb7ttRpvWO\u002B7d1\u002BP6Vl2ss0OXhwxNsflsK7NFKRnIsJllwGAgX81bZUl\u002B7ADHLh5OhfFas3YNRzhM35z\u002BqkGaFzLIVVZgeXunvaj8G\u002B6r7nspJgVaTLsxS83eLXCF0/PG\u002Bac\u002B6Kvj4YMw2DptMHpl9EAQhUUf5UshhCR1G1WvwBaYbkO3qNPokMVoYXqJXkmv1YsYwioxiEmYGmxLbQAErUw1U/pTVuE4jqy1au83E5uDaTZtj2QiH5aCS2SaSTva0H4\u002BbBomca/VCwISIFvJdpTrZSq0GzpTy0yF4XfKO3S/tn/Fd923wl6wSNFbWxxfXF7/ss5luew7c9VcxadcU63iaTEXz8XvtOX22\u002BxZVlRGhAvxIp34kXgy6ZmM585zy2QHCTODMzRloWjlF4WGkIu9jLWQ6hncDU4cl4/fRL5HbigLg\u002BIMAz0DeybZNL86v3r6y\u002BcvYKozQRFxsod8ABI4K/WKkxd4pyALD3XfdKXfuf8XgJ/U5B69phRCXgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-02T13:57:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAADwv4sBAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZC/TxpxGMbf73GAeIhXKz9SbWMQ\u002B8NcMMWgQtpGBwZjhybWGhs2p66t1SYdutXO7aTtaOLQgYmBkgh0aqjBhGgjlCiHSOU8hEPkDg7uete0Y/\u002BA9jO8eYfnGT4P/Pto1BORI/jC3AJpnDB2NZ1NwnrfSow8GtH7Xf5GNBpFnjnPJeY2Y/A/9Ytrr9d6Tm6ddJhdZpGO0RImyzKG7WNjHM8FGlgjSXQRSRNuSpKI/Fh0FnsP2cMhXuQDOkkXoI/osVK99FloCYE8nh\u002BDV4Dhob0QeVQ\u002BWtnOb7ttRpvWO\u002B7d1\u002BP6Vl2ss0OXhwxNsflsK7NFKRnIsJllwGAgX81bZUl\u002B7ADHLh5OhfFas3YNRzhM35z\u002BqkGaFzLIVVZgeXunvaj8G\u002B6r7nspJgVaTLsxS83eLXCF0/PG\u002Bac\u002B6Kvj4YMw2DptMHpl9EAQhUUf5UshhCR1G1WvwBaYbkO3qNPokMVoYXqJXkmv1YsYwioxiEmYGmxLbQAErUw1U/pTVuE4jqy1au83E5uDaTZtj2QiH5aCS2SaSTva0H4\u002BbBomca/VCwISIFvJdpTrZSq0GzpTy0yF4XfKO3S/tn/Fd923wl6wSNFbWxxfXF7/ss5luew7c9VcxadcU63iaTEXz8XvtOX22\u002BxZVlRGhAvxIp34kXgy6ZmM585zy2QHCTODMzRloWjlF4WGkIu9jLWQ6hncDU4cl4/fRL5HbigLg\u002BIMAz0DeybZNL86v3r6y\u002BcvYKozQRFxsod8ABI4K/WKkxd4pyALD3XfdKXfuf8XgJ/U5B69phRCXgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-02T13:57:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadInputRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAiwJcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EGUConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\EGUConverter.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\EGUConverter.cs",
+              "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlarmProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AlarmProcessor.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeToolTip": "ProcessingModule\\AlarmProcessor.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHJSURBVDhPhZM9b0FhFMfPvV7jpUEIwtaha8di8QEwmYy\u002Bga2kiUokJp\u002Bhk8QsJglTpy7duxIJknopbsRFn//pJZ5W219yrnten3PueSgkKJfL5sFgcLXZbMyr1QomCafTScFgkFKp1D6ZTL4rirI3XMQF8vn8jdVqrbjd7hvhZMc52\u002B2Wf2Ox2EckErkXMa/xeFyDjaNzudxtOBx\u002BSqfTtw6HAyaJyWRC3W6XDoeDnkgkXjwez6OIe0YRFQE4wWQyUSgUInHCDwkEAkim4XBo7vV6d9Pp9EGMe41cLnAEQbPZjETASaDDjs5cLheJRLXT6Vw1Gg0zcvhxRNM0ajabdP4hkZjNZlnQ6Xq9plarRf1\u002Bn/1SAZvNRplMhnRdNyzEo2EE\u002BMByuSSLxcLvQBpBVVXy\u002BXzk9/tP4vV6\u002BVSMM5/Pab8/bZCROkD1Wq1Gi8XCsMiINVOxWDS0L6QCmLdQKNButzMsMhgHl\u002BocaQSAi/SbXELqALPW6/U/RyiVSob2hVQAe65Wq7z3S6ALfOhzWMNaMPdoNOI7gE4uCXzj8ZjXfFwld2C32zXhfGu328r3E76DNSIWOdB//J2h/4e4VHo0Gl1UKhX9E7Rr2b1CaYWoAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-02T13:57:54.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Acquisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\ProcessingModule\\Acquisitor.cs",
+              "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriteSingleRegisterFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WriteSingleCoilFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadHoldingRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadDiscreteInputsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\AUS Kolokvijum G7i8 - Projekat radjen\\AUS Kolokvijum G7i8 - Projekat radjen\\Template - Projekat Radjen\\dCom\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:57:54.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
